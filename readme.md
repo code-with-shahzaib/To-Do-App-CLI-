@@ -1,4 +1,4 @@
-📝 To-Do List CLI App
+📝 To-Do List CLI App<b>
 A simple yet powerful CLI-based To-Do List application built with Python. This app helps you add, update, delete, mark tasks as done, and track progress efficiently!
 
 🌟 Features
